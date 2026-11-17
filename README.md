@@ -195,6 +195,11 @@ SSID and password can be changed from the dashboard. Applying a Wi-Fi change res
 [![Crypto](https://img.shields.io/badge/Crypto-Donate-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://tesla-mods.fkey.id/) [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=Q2YMMMJYTAPJE)
 <a href="https://www.buymeacoffee.com/xbmod" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 30px !important;width: 108px !important;" ></a>
 
+欢迎请作者喝杯咖啡，助力后续更新~  
+
+<img width="279" height="381" alt="mm_facetoface_collect_qrcode_1794913481420" src="https://github.com/user-attachments/assets/53b0d528-529d-43f7-bef0-712938274629" />
+
+
 ### Discord
 
 Join the project Discord server:
